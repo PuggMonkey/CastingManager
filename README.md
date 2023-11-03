@@ -1,1 +1,2 @@
-# Mod1
+# CastingManager
+This is a Gorilla Tag mod that contains some useful features for casters
