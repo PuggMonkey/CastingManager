@@ -97,13 +97,13 @@ namespace CastingManager
                 return;
             }
         }
-
+         
         private void Update()
         {
 
-            if (Keyboard.current.tKey.wasPressedThisFrame)
+            if (Keyboard.current.iKey.wasPressedThisFrame)
             {
-                Debug.Log("T Recognised");
+                Debug.Log("I Recognised");
 
                 isMenuOpen = !isMenuOpen;
             }
